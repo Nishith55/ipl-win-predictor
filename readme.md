@@ -66,7 +66,7 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine using this command:
 
    ```shell
-   git clone https://github.com/rajatrawal/ipl-win-predictor.git
+   git clone https://github.com/Nishith55/ipl-win-predictor.git
    ```
 
 2. Navigate to the project directory:
@@ -100,6 +100,6 @@ Explore the "IPL Win Predictor" and make data-driven predictions about IPL match
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/ipl-win-predictor).
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/Nishith55/ipl-win-predictor).
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
